@@ -1,0 +1,3 @@
+Disk quotas for user scburner (uid 34692): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/hda5     148  102400  102400              33       0       0        

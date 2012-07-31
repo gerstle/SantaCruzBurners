@@ -1,0 +1,35 @@
+Return-path: <scburner@dime32.dizinc.com>
+Envelope-to: scburner@santacruzburners.com
+Delivery-date: Mon, 17 Jan 2011 19:29:16 -0500
+Received: from scburner by dime32.dizinc.com with local (Exim 4.69)
+	(envelope-from <scburner@dime32.dizinc.com>)
+	id 1PezRk-00053F-Do
+	for scburner@santacruzburners.com; Mon, 17 Jan 2011 19:29:16 -0500
+To: scburner@santacruzburners.com
+Subject: [santacruzburners.com] Please moderate: "Check out Sand by the Ton this weekend!"
+X-PHP-Script: santacruzburners.com/wp-comments-post.php for 67.202.90.109
+Date: Tue, 18 Jan 2011 00:29:16 +0000
+From: WordPress <wordpress@santacruzburners.com>
+Message-ID: <3af8c03334cb07f84400aca4c0736d14@santacruzburners.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post #12 "Check out Sand by the Ton this weekend!" is waiting for your approval
+http://santacruzburners.com/?p=12
+
+Author : airplane simulator games (IP: 67.202.90.109 , 67.202.90.109)
+E-mail : Soult2392@yahoo.com
+URL    : http://hubpages.com/hub/airplanesimulatorgames
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=67.202.90.109
+Comment: 
+If you do not mind me asking, just what are you using to stop spam responses? I noticed your web site is good and free from all the spam bots leaving comments. I have another site myself, and I just like to keep comments open so I never have to come on and approve them all the time, but the spam plugins I've tried are usually failing to prevent even the most obvious and basic spam comments. Is there something reasonable out there that does a good job or is my only hope to keep them moderated or just simply close them all together? Thanks
+
+Approve it: http://santacruzburners.com/wp-admin/comment.php?action=mac&c=1788
+Delete it: http://santacruzburners.com/wp-admin/comment.php?action=cdc&c=1788
+Spam it: http://santacruzburners.com/wp-admin/comment.php?action=cdc&dt=spam&c=1788
+Currently 1,687 comments are waiting for approval. Please visit the moderation panel:
+http://santacruzburners.com/wp-admin/edit-comments.php?comment_status=moderated
+

@@ -1,0 +1,35 @@
+Return-path: <scburner@dime32.dizinc.com>
+Envelope-to: scburner@santacruzburners.com
+Delivery-date: Sun, 12 Dec 2010 02:30:02 -0500
+Received: from scburner by dime32.dizinc.com with local (Exim 4.69)
+	(envelope-from <scburner@dime32.dizinc.com>)
+	id 1PRgNe-0007FQ-Lh
+	for scburner@santacruzburners.com; Sun, 12 Dec 2010 02:30:02 -0500
+To: scburner@santacruzburners.com
+Subject: [santacruzburners.com] Please moderate: "UnScruz 2010!"
+X-PHP-Script: santacruzburners.com/wp-comments-post.php for 79.142.68.99
+Date: Sun, 12 Dec 2010 07:30:02 +0000
+From: WordPress <wordpress@santacruzburners.com>
+Message-ID: <1cccef8734634d13f6fd1c5ee42113b9@santacruzburners.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+A new comment on the post #22 "UnScruz 2010!" is waiting for your approval
+http://santacruzburners.com/?p=22
+
+Author : jonn2 (IP: 79.142.68.99 , hosted-by.altushost.com)
+E-mail : emai1l@gmail.com
+URL    : http://link
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=79.142.68.99
+Comment: 
+comment6,
+
+Approve it: http://santacruzburners.com/wp-admin/comment.php?action=mac&c=961
+Delete it: http://santacruzburners.com/wp-admin/comment.php?action=cdc&c=961
+Spam it: http://santacruzburners.com/wp-admin/comment.php?action=cdc&dt=spam&c=961
+Currently 939 comments are waiting for approval. Please visit the moderation panel:
+http://santacruzburners.com/wp-admin/edit-comments.php?comment_status=moderated
+
